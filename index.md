@@ -49,6 +49,8 @@
 
 [定款](teikan.html)
 
+設立準備：2013年11月　発足会：2021年6月25日
+
 ## Code for Japanとの連携
 
 [Code for FUKUI](index.html)は、[Code for Japan](https://www.code4japan.org/)と同じ志を持ち、ＩＴで地域課題の解決に挑戦する活動をしています。
